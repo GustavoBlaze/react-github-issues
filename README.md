@@ -9,9 +9,9 @@
 <p align="center">“Para quem fica melhor a cada dia, ficar pronto é utopia”!</blockquote>
 
 
-## :rocket: Sobre a aplicação
+## :rocket: Sobre o desafio
 
-Uma aplicação criada com **ReactJS** para consumir a API-REST do Github. O usuário digita o nome do repositório que deseja visualizar e este repositório é adicionado a uma lista. Com o repositório na lista, o usuário pode clicar para ver a página do repositório. Esta página mostra alguns detalhes do repositório e uma lista com as issues com **filtros**, **paginação** e **labels**.
+Uma aplicação criada com **ReactJS** para consumir a API-REST do Github. O usuário deve digitar o nome do repositório que deseja visualizar e este repositório é adicionado a uma lista. Com o repositório na lista, o usuário pode clicar para ver a página do repositório. Esta página mostra alguns detalhes do repositório e uma lista com as issues com **filtros**, **paginação** e **labels**.
 
 ## :clipboard: Iniciando a aplicação
 
