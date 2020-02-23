@@ -27,7 +27,7 @@ Uma aplicação criada com **ReactJS** para consumir a API-REST do Github. O usu
 - 📄 **Axios**
 - 📄 **ESLint**
 
-### Funcionamento
+## :camera: Funcionamento
 
 <h1 align="center">
   <img alt="resultado" src="https://raw.githubusercontent.com/GustavoBlaze/react-github-issues/master/repo.gif" />
