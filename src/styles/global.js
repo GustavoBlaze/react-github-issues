@@ -12,6 +12,10 @@ export default createGlobalStyle`
     min-height: 100%;
   }
 
+  #root {
+    padding: 10px;
+  }
+
   body {
     background: #7159c1;
     -webkit-font-smoothing: antialiased !important;
