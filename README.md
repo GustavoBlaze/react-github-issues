@@ -30,7 +30,7 @@ Criar uma aplicação com **ReactJS** para consumir a API-REST do Github. O usu�
 
 ## :camera: Demonstração
 
-link: https://epic-turing-06de72.netlify.com/
+link: <a href="https://epic-turing-06de72.netlify.com/" target="_blank">netlify</a>
 
 <h1 align="center">
   <img alt="resultado" src="https://raw.githubusercontent.com/GustavoBlaze/react-github-issues/master/repo.gif" />
