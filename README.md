@@ -22,12 +22,15 @@ Criar uma aplicação com **ReactJS** para consumir a API-REST do Github. O usu�
 5. Acesse a url `http://localhost:3000` para usar a aplicação
 
 ## :hammer: Ferramentas usadas
+
 - ⚛️ **React JS** - Uma biblioteca JavaScript para criar interfaces de usuário
 - ⚛️ **Styled Components** - Biblioteca Javascript pra estilizar componentes
 - 📄 **Axios** - Biblioteca Javascript para fazer requisições http
 - 📄 **ESLint** - Biblioteca Javascript para procurar e resolver problemas no codigo
 
-## :camera: Funcionamento
+## :camera: Demonstração
+
+link: <a href="https://epic-turing-06de72.netlify.com/" target="_blank">netlify</a>
 
 <h1 align="center">
   <img alt="resultado" src="https://raw.githubusercontent.com/GustavoBlaze/react-github-issues/master/repo.gif" />
